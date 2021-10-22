@@ -1,0 +1,1 @@
+[{"ID":1,"LectureID":1,"StudentID":1,"isPresent":false,"LectureDate":null,"isHwDone":false},{"ID":2,"LectureID":1,"StudentID":1,"isPresent":true,"LectureDate":null,"isHwDone":false},{"ID":3,"LectureID":1,"StudentID":2,"isPresent":true,"LectureDate":null,"isHwDone":false},{"ID":4,"LectureID":1,"StudentID":3,"isPresent":false,"LectureDate":null,"isHwDone":false}]
